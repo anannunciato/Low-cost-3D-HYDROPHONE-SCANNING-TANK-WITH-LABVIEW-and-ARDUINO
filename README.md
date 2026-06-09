@@ -18,3 +18,8 @@ Este repositório contém o código-fonte e a documentação do sistema automati
 1. Carregue o arquivo contido na pasta `/firmware-arduino` no Arduino Mega.
 2. Faça o ajuste manual dos limites espaciais no LCD Shield.
 3. Abra o software no LabVIEW, configure a porta COM correta e inicie a varredura automática.
+
+## 📄 Documentação Completa
+O artigo científico contendo o manual detalhado de instalação, remapeamento de pinos e calibração do sistema pode ser baixado diretamente na pasta de documentação ou pelo link abaixo:
+
+* [Clique aqui para acessar o Manual de Instalação (PDF)](documentacao/artigo_manual.pdf)
